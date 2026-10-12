@@ -1,0 +1,6 @@
+{
+  "name": "JeduAI",
+  "description": "AI-powered multilingual learning mobile application for students with AI tutoring, translation, and study tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
